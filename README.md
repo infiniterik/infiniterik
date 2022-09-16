@@ -6,13 +6,14 @@
 - [linkedin.com/in/ritwik-bose-40a343112/](https://www.linkedin.com/in/ritwik-bose-40a343112/)
 
 ## Hi
-My name is Rik Bose and I'm a visiting Assistant Professor at Knox College.
+My name is Rik Bose and I'm an Assistant Professor at Knox College.
 
 - 🏛 Currently Class Rotation:
   - Science Fiction and Human Identity
   - Intro to Programming (Java)
   - Natural Language Processing
   - Software Engineering
+  - Programming Languages
 - 💬 Hobbies : Reading and playing with synthesizers.
 -  ⚡ Languages: Python, Java, Lisp, Scala, Ruby, etc...
 
