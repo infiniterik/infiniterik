@@ -14,6 +14,8 @@ My name is Rik Bose and I'm an Assistant Professor at Knox College.
   - Natural Language Processing
   - Software Engineering
   - Programming Languages
+  - Advanced Datastructures
+  - Neural AI (Fall 2023)
 - 💬 Hobbies : Reading and playing with synthesizers.
 -  ⚡ Languages: Python, Java, Lisp, Scala, Ruby, etc...
 
