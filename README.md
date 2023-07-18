@@ -3,7 +3,7 @@
 
 - 📫 Reach me: 
 - [twitter.com/infiniterik](https://twitter.com/infiniterik)
-- [linkedin.com/in/ritwik-bose-40a343112/](https://www.linkedin.com/in/ritwik-bose-40a343112/)
+- [linkedin.com/in/ritwik-bose-40a343112/](https://www.linkedin.com/in/infiniterik/)
 
 ## Hi
 My name is Rik Bose and I'm an Assistant Professor at Knox College.
