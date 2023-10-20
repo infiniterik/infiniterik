@@ -2,22 +2,10 @@
 [rbose.dev](https://www.rbose.dev)
 
 - 📫 Reach me: 
-- [twitter.com/infiniterik](https://twitter.com/infiniterik)
 - [linkedin.com/in/ritwik-bose-40a343112/](https://www.linkedin.com/in/infiniterik/)
 
 ## Hi
-My name is Rik Bose and I'm an Assistant Professor at Knox College.
-
-- 🏛 Currently Class Rotation:
-  - Science Fiction and Human Identity
-  - Intro to Programming (Java)
-  - Natural Language Processing
-  - Software Engineering
-  - Programming Languages
-  - Advanced Datastructures
-  - Neural AI (Fall 2023)
-- 💬 Hobbies : Reading and playing with synthesizers.
--  ⚡ Languages: Python, Java, Lisp, Scala, Ruby, etc...
+My name is Rik and I'm a researcher at JHUAPL
 
 
 ---
