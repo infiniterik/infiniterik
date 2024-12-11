@@ -1,5 +1,5 @@
 # Rik Bose
-[rbose.dev](https://www.rbose.dev)
+[home page](https://infiniterik.github.io)
 
 - 📫 Reach me: 
 - [linkedin.com/in/ritwik-bose-40a343112/](https://www.linkedin.com/in/infiniterik/)
